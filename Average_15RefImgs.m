@@ -26,7 +26,7 @@ function [vectors_Icero_and_PRNU_averageRef] = Average_15RefImgs(numCaptDevice, 
 %      Leonardo Palacios-Luengas,     UAM-Iztapalapa.   
 %      Rubén Vázquez-Medina,          IPN-CICATA Querétaro.
 
-% Contact: rvazquez@ipn.mx | February 2024
+% Contact: ruvazquez@ipn.mx | February 2024
 %
 % -------------------------------------------------------------------------
 % DESCRIPTION:
