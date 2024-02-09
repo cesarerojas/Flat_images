@@ -26,7 +26,7 @@ function [crop_Image] = cropImageParameters(Image, width, heigth)
 %      Leonardo Palacios-Luengas,     UAM-Iztapalapa.   
 %      Rubén Vázquez-Medina,          IPN-CICATA Querétaro.
 
-% Contact: rvazquez@ipn.mx | February 2024
+% Contact: ruvazquez@ipn.mx | February 2024
 %
 % -------------------------------------------------------------------------
 % DESCRIPTION:
