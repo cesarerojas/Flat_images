@@ -26,7 +26,7 @@ function [] = Disputed_ImgsFlat__1and15imgsFgP(RESULTS_folder, numCaptDevice, nu
 %      Leonardo Palacios-Luengas,     UAM-Iztapalapa.   
 %      Rubén Vázquez-Medina,          IPN-CICATA Querétaro.
 
-% Contact: rvazquez@ipn.mx | February 2024
+% Contact: ruvazquez@ipn.mx | February 2024
 %
 % -------------------------------------------------------------------------
 % DESCRIPTION:
